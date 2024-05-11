@@ -39,7 +39,7 @@ The hands on project on Linear Regression with NumPy and Python is divided into 
 
 **Task 5: Implement Gradient Descent from scratch in Python**
 
-* Recall that the parameters of our model are the 𝜃_j values. 
+* Recall that the parameters of our model are the $𝜃_j$ values. 
 * These are the values we will adjust to *minimize* the cost J(𝜃). 
 * One way to do this is to use the **batch gradient descent algorithm**.
 * In batch gradient descent, each iteration performs the following update. 
