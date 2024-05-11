@@ -40,21 +40,21 @@ The hands on project on Linear Regression with NumPy and Python is divided into 
 **Task 5: Implement Gradient Descent from scratch in Python**
 
 * Recall that the parameters of our model are the 𝜃_j values. 
-* These are the values we will adjust to minimize the cost J(𝜃). 
+* These are the values we will adjust to *minimize* the cost J(𝜃). 
 * One way to do this is to use the **batch gradient descent algorithm**.
 * In batch gradient descent, each iteration performs the following update. 
 * With each step of gradient descent, the parameters 𝜃_j come closer to the optimal values that will achieve the lowest cost J(𝜃). 
 
 **Task 6: Visualizing the Cost Function J(𝜃)**
 
-* To better understand the cost function J(𝜃), we will plot the cost over a 2-dimensional grid of 𝜃_0 and 𝜃_1 values.
+* To better understand the cost function J(𝜃), we will plot the cost over a **2-dimensional grid** of 𝜃_0 and 𝜃_1 values.
 * The purpose of this graph is to show you how J(𝜃) varies with changes in 𝜃_0 and 𝜃_1. 
-* We can see that the **cost function J(𝜃)** is bowl-shaped and has a global minimum. 
+* We can see that the **cost function J(𝜃)** is bowl-shaped and has a **global minimum**. 
 
 **Task 7: Plotting the Convergence**
 
 * Let’s plot how the cost function varies with the number of iterations. 
-* When we ran gradient descent previously, it returns the history of J(𝜃) values in a vector “costs”. 
+* When we ran gradient descent previously, it returns the history of J(𝜃) values in a vector `“costs”`. 
 * We will now plot the J values against the number of iterations. 
 
 **Task 8: Training Data with Univariate Linear Regression Fit**
