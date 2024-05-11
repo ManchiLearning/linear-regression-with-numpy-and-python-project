@@ -1,6 +1,6 @@
 # Linear Regression with NumPy and Python Guided Project
 
-This repository hosts the materials covered in the Coursera Project Network's guided project: "Linear Regression with NumPy and Python."
+This repository hosts the materials covered in the Coursera Project Network's guided project: ["Linear Regression with NumPy and Python."](https://www.coursera.org/projects/linear-regression-numpy-python)
 
 In this project, you will learn:
 
