@@ -4,7 +4,7 @@ This repository hosts the materials covered in the Coursera Project Network's gu
 
 In this project, you will learn:
 
-* Implement the gradient descent algorithm from scratch
-* Perform univariate linear regression with Numpy and Python
-* Create data visualizations and plots using matplotlib
+* Implement the **gradient descent** algorithm from scratch
+* Perform **univariate linear regression** with `Numpy` and `Python`
+* Create data visualizations and plots using `matplotlib`
 
